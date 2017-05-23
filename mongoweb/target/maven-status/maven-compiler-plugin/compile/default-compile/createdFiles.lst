@@ -1,0 +1,5 @@
+mongoweb\converter\PersonConverter.class
+mongoweb\listeners\MongoContextListener.class
+mongoweb\model\Person.class
+mongoweb\dao\PersonDAO.class
+mongoweb\servlets\AddPersonServlet.class
